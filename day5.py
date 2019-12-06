@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Advent of Code 2019 day 2 module."""
+"""Advent of Code 2019 day 5 module."""
 
 
 def get_params(program, input_params, modes):
