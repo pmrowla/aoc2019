@@ -21,10 +21,11 @@ $ python3 day1.py -
 ### Requirements
 
 - numpy
-
-### Optional
-
 - [tqdm](https://github.com/tqdm/tqdm) - if tqdm is available, certain slow solutions will provide a progress bar on the terminal.
+
+### Notes
+
+- Day 17: pathing split was found by hand and probably only works for my input
 
 To install everything:
 ```
