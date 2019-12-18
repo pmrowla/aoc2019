@@ -26,6 +26,7 @@ $ python3 day1.py -
 ### Notes
 
 - Day 17: pathing split was found by hand and probably only works for my input
+- Day 18: solution is slow, takes ~2-3min total to run for my input
 
 To install everything:
 ```
